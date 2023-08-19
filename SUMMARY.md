@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Learn how to make mobile apps](README.md)
+* [💮 Learn how to make mobile apps](README.md)
 
 ## How to make an app
 
@@ -21,4 +21,3 @@
 * [Submit app for creation](publishing-and-updating/submit-app-for-creation.md)
 * [Publish iOS App](publishing-and-updating/publish-ios-app.md)
 * [Updating your app](publishing-and-updating/updating-your-app.md)
-
